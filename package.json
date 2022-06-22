@@ -11,7 +11,7 @@
     "build": "gulp build"
   },
   "dependencies": {
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "lodash": "^4.17.15",
     "memory-cache": "^0.2.0",
     "rxjs": "^6.5.4",
